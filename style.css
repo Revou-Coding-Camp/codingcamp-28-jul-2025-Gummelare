@@ -99,7 +99,7 @@
 
         .hero {
             min-height: 100vh;
-            background: url('Asset/Desktop\ -\ 3.png') no-repeat center center;
+            background: url('Asset/Base') no-repeat center center;
             background-size: cover;
             position: relative;
             padding: 2rem;
